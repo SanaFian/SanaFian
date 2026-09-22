@@ -1,6 +1,6 @@
 # Hi, I'm Sana 👋
 
-🎓 Computer Engineering 
+🎓 Computer Engineering
 💻 Learning C++ & Software Development  
 🤖 Exploring Embedded Systems, Robotics & Electronics  
 🛠️ Learning by building, experimenting, and solving problems
