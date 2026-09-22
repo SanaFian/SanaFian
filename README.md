@@ -4,7 +4,7 @@
 
 *“Logic is the language of the universe, and code is how we speak it.”*
 
-**Computer Engineering | C++ Learner Developer**
+**Computer Engineering | C++ Developer**
 
 </div>
 
