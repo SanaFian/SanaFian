@@ -35,7 +35,7 @@ Hi! I'm Sana. A Computer Engineering graduate with a passion for logic and build
 
 ### 📫 Let's Connect
 - 🌐 **GitHub:** [SanaFian](https://github.com/SanaFian)
-- 📧 **Email:** [ایمیل‌ت رو اینجا بنویس]
+- 📧 **Email:** [sananajafian02@gmail.com]
 
 ---
 <div align="center">
