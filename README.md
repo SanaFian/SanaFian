@@ -1,44 +1,43 @@
 <div align="center">
 
-# 🚀 Hello ,  I'm Sana
-**Computer Engineering Graduate | C++ Student | Exploring Embedded & Robotics**
+# 🚀 Hi, I'm Sana
 
----
+*“Logic is the language of the universe, and code is how we speak it.”*
 
-*“Learning today, building tomorrow.”*
+**Computer Engineering Graduate | C++ Learner | HTML Developer**
 
 </div>
 
-## 📌 About Me
-Hi! I'm Sana. I’m a Computer Engineering graduate who loves logic, code, and the challenge of making software interact with the real world. 
+---
 
-Right now, I am on a focused path to master **C++** and understand the fundamentals of software development. My long-term goal is to bridge my current skills into the exciting worlds of **Embedded Systems** and **Robotics**.
+### 🌟 About Me
+Hi! I'm Sana. A Computer Engineering graduate with a passion for logic and building things. I believe in writing clean code and understanding how things work from the ground up.
+
+- 🎓 Computer Engineering Graduate.
+- 🛠 Currently sharpening my skills in **C++** and **HTML**.
+- 🚀 Deeply interested in **Embedded Systems** and **Robotics** (currently exploring and learning!).
+- 📚 Always curious and open to new challenges.
 
 ---
 
-## 💻 My Current Focus
-*   **C++ Mastery:** This is my current battlefield. I'm building a solid foundation here, from syntax to memory management.
-    *   📂 [**My C++ Learning Hub**](https://github.com/SanaFian/cpp-learning) (My daily practice & deconstructions)
-
-## 🔭 Exploring (Future Goals)
-I have a huge interest in these fields and I'm actively looking for resources and projects to get started:
-- **Embedded Systems:** Moving from software-only to hardware-software integration.
-- **Robotics:** Applying my code to real, physical systems.
+### 💻 Technical Skills
+<img src="https://img.shields.io/badge/C++-00599B?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 
 ---
 
-## 🎯 My Philosophy
-> **Learn → Build → Experiment → Improve**
-
-I believe in building projects as a way to learn, not just reading about them. You’ll see more projects popping up here as I transition from studying to *doing*.
+### 🎯 What I'm Working On
+*   **C++ Lab:** [Check out my progress here](https://github.com/SanaFian/cpp-learning) — *My daily practice, exercises, and code experiments.*
+*   **Embedded & Robotics Exploration:** Researching and taking my first steps toward hardware integration.
 
 ---
-
-<div align="center">
 
 ### 📫 Let's Connect
-I'm always open to feedback, advice, or suggestions on how to better approach my learning path in Embedded Systems and Robotics!
+- 🌐 **GitHub:** [SanaFian](https://github.com/SanaFian)
+- 📧 **Email:** [ایمیل‌ت رو اینجا بنویس]
 
-*Always curious. Always learning. ☕*
-
+---
+<div align="center">
+  <em>“Learn → Build → Experiment → Improve”</em>
 </div>
