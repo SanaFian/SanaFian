@@ -4,7 +4,7 @@
 
 *“Logic is the language of the universe, and code is how we speak it.”*
 
-**Computer Engineering | C++ Learner Developer**
+**Computer Engineering | C++ Developer**
 
 </div>
 
@@ -35,7 +35,7 @@ Hi! I'm Sana. A Computer Engineering graduate with a passion for logic and build
 
 ### 📫 Let's Connect
 - 🌐 **GitHub:** [SanaFian](https://github.com/SanaFian)
-- 📧 **Email:** [sananajafian02@gmail.com]
+- 📧 **Email:** [sananajafian02@gmail.com](mailto:sananajafian02@gmail.com)
 
 ---
 <div align="center">
