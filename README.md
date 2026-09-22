@@ -1,47 +1,44 @@
 <div align="center">
 
-# 💻 Sana's Dev Log & Projects
-**My journey through C++, Embedded Systems, and beyond.**
+# 🚀 Hello ,  I'm Sana
+**Computer Engineering Graduate | C++ Student | Exploring Embedded & Robotics**
 
 ---
 
-*“Code is the bridge between human intent and machine execution.”*
+*“Learning today, building tomorrow.”*
 
 </div>
 
-## 📌 Mission
-This repository is my **Learning & Development Hub**. My goal is to master C++ from the ground up, moving from fundamental concepts to complex, hardware-interfacing systems. Everything I learn here is documented, refined, and applied.
+## 📌 About Me
+Hi! I'm Sana. I’m a Computer Engineering graduate who loves logic, code, and the challenge of making software interact with the real world. 
+
+Right now, I am on a focused path to master **C++** and understand the fundamentals of software development. My long-term goal is to bridge my current skills into the exciting worlds of **Embedded Systems** and **Robotics**.
 
 ---
 
-## 🚀 What’s Happening Here?
-I am currently rebuilding my foundation and expanding into the world of robotics and electronics. 
+## 💻 My Current Focus
+*   **C++ Mastery:** This is my current battlefield. I'm building a solid foundation here, from syntax to memory management.
+    *   📂 [**My C++ Learning Hub**](https://github.com/SanaFian/cpp-learning) (My daily practice & deconstructions)
 
-- **[C++ Fundamentals & Advanced](https://github.com/SanaFian/cpp-learning):** A structured journey through C++, focusing on efficiency and low-level understanding.
-- **Embedded & Robotics (Coming Soon):** My upcoming playground where C++ meets the physical world. 
-- **Project Lab:** Stay tuned! I am actively developing hardware-focused projects to put theory into practice.
-
----
-
-## 📈 My Roadmap
-- [x] Mastering C++ Core Concepts
-- [ ] Deep Dive into Memory Management & OOP
-- [ ] Embedded Systems Integration (STM32/Arduino/Raspberry Pi)
-- [ ] Robotics Simulation & Control Systems
-- [ ] Real-world Hardware Projects
+## 🔭 Exploring (Future Goals)
+I have a huge interest in these fields and I'm actively looking for resources and projects to get started:
+- **Embedded Systems:** Moving from software-only to hardware-software integration.
+- **Robotics:** Applying my code to real, physical systems.
 
 ---
 
-## 📚 Why C++?
-Because when it comes to robotics and embedded systems, there is no substitute for the precision and performance of C++. I’m not just learning syntax; I’m learning how to control the metal.
+## 🎯 My Philosophy
+> **Learn → Build → Experiment → Improve**
+
+I believe in building projects as a way to learn, not just reading about them. You’ll see more projects popping up here as I transition from studying to *doing*.
 
 ---
 
 <div align="center">
 
-### ⚡ Let's build something that works.
-**Currently focused on:** Writing cleaner, more efficient C++ code every single day. 
+### 📫 Let's Connect
+I'm always open to feedback, advice, or suggestions on how to better approach my learning path in Embedded Systems and Robotics!
 
-*“If you want to go fast, go alone. If you want to go far, go with a compiler that doesn't scream at you.”* ☕
+*Always curious. Always learning. ☕*
 
 </div>
