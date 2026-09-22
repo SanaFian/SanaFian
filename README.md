@@ -38,17 +38,10 @@ Hi! I'm Sana. A Computer Engineering with a passion for logic and building thing
 ---
 
 ### 📫 Let's Connect
-<div align="center">
-  <a href="mailto:sananajafian02@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</div>
+- 🌐 **GitHub:** [SanaFian](https://github.com/SanaFian)
+- 📧 **Email:** [sananajafian02@gmail.com](mailto:sananajafian02@gmail.com)
 
-<br>
-
+---
 <div align="center">
-  <p><em>“Code is just the shadow of thought in the digital world.”</em></p>
-  
-  <!-- نمایش تعداد بازدیدکننده‌ها -->
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSanaFian&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visitors&edge_flat=false"/>
+  <em>“We are a way for the cosmos to know itself.”</em>
 </div>
