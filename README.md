@@ -13,7 +13,7 @@
 ### 🌟 About Me
 Hi! I'm Sana. A Computer Engineering with a passion for logic and building things. I believe in writing clean code and understanding how things work from the ground up.
 
-- 🎓 Computer Engineering Graduate.
+- 🎓 Computer Engineering.
 - 🛠 Currently sharpening my skills in **C++** and **HTML**.
 - 🚀 Deeply interested in **Embedded Systems** and **Robotics** (currently exploring and learning!).
 - 📚 Always curious and open to new challenges.
