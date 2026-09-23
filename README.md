@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚀 Hi, I'm Sana
+# 🚀 Hello , I'm Sana
 
 *“Logic is the language of the universe, and code is how we speak it.”*
 
