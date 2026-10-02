@@ -2,7 +2,7 @@
 
 # 🚀 Hello, I'm Sana
 
-*“Logic is the language of the universe, and code is how we speak it.”*
+*“We are a way for the cosmos to know itself.”*
 
 **Computer Engineering Student | C++ Developer | Aspiring Embedded Engineer**
 
@@ -77,5 +77,5 @@ I'm interested in developing systems where code doesn't just run on a screen, bu
 ---
 
 <div align="center">
-  <em>“We are a way for the cosmos to know itself.”</em>
+  <em>“Logic is the language of the universe, and code is how we speak it.”</em>
 </div>
