@@ -1,14 +1,16 @@
 <div align="center">
 
-# Hello, I'm Sana 👋
+# 🚀 Hello, I'm Sana
 
-**Computer Engineering Student | C++ Developer | Aspiring Embedded Systems Engineer**
+*“Logic is the language of the universe, and code is how we speak it.”*
+
+**Computer Engineering Student | C++ Developer | Aspiring Embedded Engineer**
 
 </div>
 
 ---
 
-## About Me
+### 🌟 About Me
 
 I'm a Computer Engineering student with a strong interest in **C++ programming, Embedded Systems, and Robotics**.
 
