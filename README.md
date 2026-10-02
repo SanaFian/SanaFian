@@ -77,7 +77,5 @@ I'm interested in developing systems where code doesn't just run on a screen, bu
 ---
 
 <div align="center">
-
-*Learning. Building. Improving.*
-
+  <em>“We are a way for the cosmos to know itself.”</em>
 </div>
