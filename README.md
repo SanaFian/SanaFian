@@ -12,7 +12,7 @@
 
 ### 🌟 About Me
 
-Computer Engineering student focused on software development, with an interest in Embedded Systems and Robotics**.
+Computer Engineering student focused on software development, with an interest in Embedded Systems and Robotics.
 
 I enjoy understanding how software interacts with hardware and building projects that connect the two. I'm currently strengthening my programming fundamentals while exploring embedded development and robotics.
 
