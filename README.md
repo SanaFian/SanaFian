@@ -41,7 +41,7 @@ I enjoy understanding how software interacts with hardware and building projects
 
 I'm currently working on:
 
-* Improving my C++ programming skills
+* Improving my C++ & Python programming skills
 * Building a strong foundation in software development
 * Exploring Embedded Systems
 * Learning about Robotics and hardware integration
