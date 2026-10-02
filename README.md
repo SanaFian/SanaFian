@@ -52,17 +52,12 @@ I'm currently working on:
 ## Projects
 
 ### [C++ Learning](https://github.com/SanaFian/cpp-learning)
+A collection of C++ exercises and programming practices covering fundamental concepts.
 
-A collection of C++ exercises and programming practices covering fundamental concepts such as:
+### [Python workspace](https://github.com/SanaFian/python-workspace)
+A curated, structured archive of Python fundamentals, algorithmic problem solving, and hands-on projects.
 
-* Basic Programming
-* Conditional Statements
-* Loops
-* Arrays
-* Strings
-* Functions
-
-The repository is continuously updated as I learn and practice new concepts.
+*"The repository is continuously updated as I learn and practice new concepts."*
 
 ---
 
