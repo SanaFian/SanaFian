@@ -13,8 +13,6 @@
 ### 🌟 About Me
 Hi, I'm Sana. A Computer Engineering student with a strong focus on C++ and backend logic. I enjoy building things from the ground up and am currently diving into the world of Embedded Systems and Robotics. 
 
-Beyond the screen, I’m curious about astronomy and philosophy—constantly exploring the intersection of technical systems and existential questions.
-
 - 🎓 **Currently:** Surviving semester exams, leveling up my C++ skills, and teaching my computer Python!
 - 🛠 **Focus:** Embedded Systems & Robotics (Because software is great, but making hardware move is magic).
 - 🧠 **Interests:** Philosophy, Mysticism, Astronomy, and the infinite beauty of clean code.
