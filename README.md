@@ -24,7 +24,6 @@ Hi! I'm Sana. A Computer Engineering student who believes that debugging is just
   <img src="https://img.shields.io/badge/C++-00599B?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> &nbsp;
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> &nbsp;
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> &nbsp;
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 </div>
 
 ---
