@@ -10,7 +10,7 @@
 
 ---
 
-### 🌟 About Me
+## 🌟 About Me
 
 Computer Engineering student focused on software development, with an interest in Embedded Systems and Robotics.
 
@@ -24,7 +24,7 @@ I enjoy understanding how software interacts with hardware and building projects
 
 ---
 
-## Technical Skills
+## 💻 Technical Skills
 
 <div align="center">
 
@@ -37,7 +37,7 @@ I enjoy understanding how software interacts with hardware and building projects
 
 ---
 
-## Current Focus
+## 📈 Current Focus
 
 I'm currently working on:
 
@@ -49,7 +49,7 @@ I'm currently working on:
 
 ---
 
-## Projects
+## 🎯 Projects
 
 ### [C++ Learning](https://github.com/SanaFian/cpp-learning)
 A collection of C++ exercises and programming practices covering fundamental concepts.
@@ -61,7 +61,7 @@ A curated, structured archive of Python fundamentals, algorithmic problem solvin
 
 ---
 
-## Goals
+## 🚀 Goals
 
 My long-term goal is to work at the intersection of **software and hardware**, with a focus on **Embedded Systems and Robotics**.
 
@@ -69,7 +69,7 @@ I'm interested in developing systems where code doesn't just run on a screen, bu
 
 ---
 
-## Connect
+## 📫 Connect
 
 * 🌐 **GitHub:** [@SanaFian](https://github.com/SanaFian)
 * 📧 **Email:** [sananajafian02@gmail.com](mailto:sananajafian02@gmail.com)
